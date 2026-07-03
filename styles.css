@@ -382,6 +382,13 @@ body.nav-open .nav-toggle span:nth-child(3) { transform: translateY(-7px) rotate
 .about-copy .section-tag { margin-bottom: 14px; }
 .about-copy h2 { font-size: clamp(1.6rem, 2.6vw, 2.1rem); max-width: 560px; margin-bottom: 20px; }
 .about-copy p { font-size: 0.98rem; max-width: 600px; }
+.about-role {
+  font-weight: 600;
+  color: var(--gold);
+  font-size: 0.95rem;
+  letter-spacing: 0.01em;
+  max-width: 560px;
+}
 .about-creds {
   display: flex;
   flex-wrap: wrap;
